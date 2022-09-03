@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordansatriopratama
-- 👀 I’m interested in Fullstack
+- 👀 I’m interested in Frontdev
 - 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jordansama0@gmail.com
